@@ -42,3 +42,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #its not declan
 gem 'prawn'
 gem 'responders'
+gem 'unirest'
