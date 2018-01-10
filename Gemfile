@@ -40,3 +40,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #its Chau
 #its not declan
+gem 'prawn'
+gem 'responders'
